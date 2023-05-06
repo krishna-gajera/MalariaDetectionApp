@@ -1,0 +1,2 @@
+# MalariaDetectionApp
+MalariaDetectionApp
